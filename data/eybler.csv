@@ -5,8 +5,8 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 4,Missa Sancti Mauritii,masses,1825,C major,"Missa Sancti Mauritii, HerEy 4",,
 5,Missa coronationis Ferdinandi,masses,1830,C major,,,
 6,Missa Sancti Alberti,masses,1835,C major,,,
-7,(Missa in C),masses,?,C major,"Missa in C major, HerEy 7",,
-8,Missa Sancti Bennonis,masses,1797,C minor,,,
+7,Missa Sancti Benonis (2nd version),masses,ca. 1820,C major,"Missa Sancti Benonis, HerEy 7/8",,"shortened, later version"
+8,Missa Sancti Benonis (1st version),masses,1797,C minor,"Missa Sancti Benonis, HerEy 7/8",,inital version
 9,Missa Sancti Caroli,masses,1817,C minor,,,
 10,Missa Sancti Joannis,masses,1828,C minor,,,
 11,Missa Sancti Wolfgangi,masses,1800,D minor,"Missa Sancti Wolfgangi, HV 11",,
@@ -63,7 +63,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 62,Dominus in Sina in sancto,graduals,1831,G major,"Dominus in Sina in sancto, HerEy 62",,
 63,Tu Domine Pater noster,graduals,1836,G major,"Tu Domine pater noster, HerEy 63",,
 64,Benedictus es,graduals,1834,A-flat major,"Benedictus es, Domine HerEy 64",,
-65,Ave Maria gratia plena,graduals,1819,A major,,,
+65,Ave Maria gratia plena,graduals,1819,A major,"Ave Maria, HerEy 65",,
 66,Cantate Domino,graduals,1803,A major,,,"wrong attribution (actually by Michael Haydn, MH 828)"
 67,Magnificate Dominum mecum,graduals,1802,B-flat major,,,
 68,Exaltate Dominum Deum,graduals,1806,B-flat major,,,
