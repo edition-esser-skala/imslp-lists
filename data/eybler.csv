@@ -15,7 +15,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 14,Missa Sanctae Andreae,masses,1821,E-flat major,,,
 15,Missa Sanctorum Apostolorum,masses,1825,E-flat major,"Missa Sanctorum Apostolorum, HV 15",,
 16,Missa Sancti Clementis,masses,1825,E major,,,
-17,Missa Sancti Josephi/Rudolphi,masses,1807,F major,,,
+17,Missa Sancti Josephi/Rudolphi,masses,1807,F major,"Missa Sancti Josephi, HerEy 17",,
 18,Missa Sancti Maximiliani,masses,1819,F major,,,
 19,Missa Sancti Rudolphi,masses,1826,F major,,,
 20,Missa Sancti Raineri,masses,1829,F major,,,
@@ -44,7 +44,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 43,Unam petii,graduals,1827,C major,,,"alternative middle movement of {{LinkWorkN|Si consistant, HV 86||Eybler|Leopold|0}}"
 44,Per te Dei genitrix,graduals,1828,C major,"Per te Dei genitrix, HerEy 44",,
 45,Lauda Sion,graduals,ca. 1833,C major,"Lauda Sion, HerEy 45",,"Alleluia movement of HerEy 38, different text"
-46,Os justi meditabitur,graduals,1805,C minor,,,
+46,Os justi meditabitur,graduals,1805,C minor,"Os iusti meditabitur, HerEy 46",,
 47,Nocte surgentes,graduals,1800,D major,"Nocte surgentes, HerEy 47",,
 48,Ecce sacerdos magnus,graduals,ca. 1800,D major,,,"same as HerEy 47, but different text"
 49,Te summe Jesu,graduals,1809,D major,,,
