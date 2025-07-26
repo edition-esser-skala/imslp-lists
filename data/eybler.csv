@@ -47,7 +47,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 46,Os justi meditabitur,graduals,1805,C minor,"Os iusti meditabitur, HerEy 46",,
 47,Nocte surgentes,graduals,1800,D major,"Nocte surgentes, HerEy 47",,
 48,Ecce sacerdos magnus,graduals,ca. 1800,D major,,,"same as HerEy 47, but different text"
-49,Te summe Jesu,graduals,1809,D major,,,
+49,Te summe Jesu,graduals,1809,D major,"Te summe Jesu, HerEy 49",,
 50,Tua est potentia,graduals,1822,E-flat major,"Tua est potentia, HV 50",,
 51,Omni die dic / Salve Jesu dux,graduals,?,E-flat major,"Omni die dic Mariae, HerEy 51",,"contrafactum of the aria “Liebe! Liebe! Schöpfe ein der Freuden” (2nd act, no. 13) from HerEy 142"
 52,Pater noster,graduals,?,E-flat major,"Pater noster, HerEy 52",,
@@ -70,7 +70,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 69,Iste est qui ante Deum,graduals,1807,B-flat major,,,
 70,Justus ut palma florebit,graduals,1807,B-flat major,"Iustus ut palma florebit, HerEy 70",,
 71,Ave regina,graduals,1819,B-flat major,"Ave Regina coelorum, HerEy 71",,
-72,Populum humilem salvum,graduals,1829,B-flat major,,,
+72,Populum humilem salvum,graduals,1829,B-flat major,"Populum humilem salvum, HerEy 72",,
 73,Alleluia confitemini,graduals,?,B-flat major,,,
 74,Reges tharsis,graduals,?,D major,,,uncertain attribution
 75,Domine cor mundum,graduals,?,?,,,uncertain attribution
@@ -87,8 +87,8 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 86,Si consistant,offertories,1805,C minor,"Si consistant, HV 86",,
 87,Timebunt gentes,offertories,1814,C minor,"Timebunt Gentes, HV 87",,
 88,Domine si observaveris iniquitates,offertories,1821,C minor,"Domine, si observaveris, HV 88",,
-89,Haec est dies,offertories,1800,D major,,,final movement is shortened version of HerEy 49 with different ending
-90,Summe Deus te semper,offertories,1818,D major,,,
+89,Haec est dies,offertories,1800,D major,"Haec est dies, HerEy 89",,final movement is shortened version of HerEy 49 with different ending
+90,Summe Deus te semper,offertories,1818,D major,"Summe Deus, HerEy 90",,
 91,Iubilate Deo,offertories,1820,D major,"Jubilate Deo, HV 91",,
 92,Laus sit Deo in excelsis,offertories,?,D major,,,
 93,Fremit mare,offertories,1800,D minor,"Fremit Mare, HV 93",,
