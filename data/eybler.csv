@@ -20,7 +20,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 19,Missa Sancti Rudolphi,masses,1826,F major,,,
 20,Missa Sancti Raineri,masses,1829,F major,,,
 21,Missa Sancti Sigismundi,masses,1836,F major,,,
-22,Missa Sanctae Eleonorae,masses,1809,G major,,,
+22,Missa Sanctae Eleonorae,masses,1809,G major,"Missa Sanctae Eleonorae, HerEy 22",,
 23,Missa Sancti Georgii,masses,1821,G major,,,
 24,Missa Sanctae Sophiae,masses,1833,G major,,,
 25,Missa pro Sabbato Sancto,masses,1837,G major,,,
@@ -75,7 +75,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 74,Reges tharsis,graduals,?,D major,,,uncertain attribution
 75,Domine cor mundum,graduals,?,?,,,uncertain attribution
 76,Nos populus tuus,offertories,1822,C major,"Nos populus tuus, HerEy 76",,
-77,Jubilate Deo,offertories,1823,C major,,,
+77,Jubilate Deo,offertories,1823,C major,"Jubilate Deo, HerEy 77",,
 78,Tui sunt coeli,offertories,1827,C major,"Tui sunt coeli, HV 78",,
 79,Confirma hoc Deus,offertories,1825/1828,C major,,,
 80,Ascendit Deus,offertories,1831,C major,,,
