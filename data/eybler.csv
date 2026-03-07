@@ -67,7 +67,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 66,Cantate Domino,graduals,1803,A major,,,"wrong attribution (actually by Michael Haydn, MH 828)"
 67,Magnificate Dominum mecum,graduals,1802,B-flat major,"Magnificate Dominum mecum, HerEy 67",,
 68,Exaltate Dominum Deum,graduals,1806,B-flat major,,,
-69,Iste est qui ante Deum,graduals,1807,B-flat major,,,
+69,Iste est qui ante Deum,graduals,1807,B-flat major,"Iste est, qui ante Deum, HerEy 69",,
 70,Justus ut palma florebit,graduals,1807,B-flat major,"Iustus ut palma florebit, HerEy 70",,
 71,Ave regina,graduals,1819,B-flat major,"Ave Regina coelorum, HerEy 71",,
 72,Populum humilem salvum,graduals,1829,B-flat major,"Populum humilem salvum, HerEy 72",,
@@ -113,7 +113,7 @@ id,title,genre,date,key,title_imslp,composer_imslp,notes
 112,Salve Regina,antiphons,1831,F major,,,
 113,Salve Regina,antiphons,1809,G major,"Salve Regina, HerEy 113",,
 114,Te Deum,te deums,1807,C major,"Te Deum, HerEy 114",,
-115,Te Deum,te deums,1814,C major,,,
+115,Te Deum,te deums,1814,C major,"Te Deum, HerEy 115",,
 116,Te Deum,te deums,1824,C major,,,
 117,Te Deum,te deums,?,C major,"Te Deum, HerEy 117",,
 118,Te Deum,te deums,1800,D major,"Te Deum, HerEy 118",,
