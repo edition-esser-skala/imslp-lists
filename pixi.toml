@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Wolfgang Esser-Skala <wolfgang@esser-skala.at>"]
+channels = ["conda-forge"]
+name = "imslp-lists"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = ">=3.14.3,<3.15"
+pandas = ">=3.0.1,<4"
+strictyaml = ">=1.7.3,<2"
